@@ -1,0 +1,7 @@
+├── /n8n_workflows       # Exported n8n workflows
+├── /database            # SQL schema / sample queries
+├── /ai_models           # Quadratic AI configuration files
+├── /data                # Input samples or processed data
+├── README.md            # Project documentation
+
+
