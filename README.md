@@ -37,7 +37,7 @@ README.md          → Documentation
 
 ⚙️ Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https:/https://github.com/mohammadafsalvp
 cd your-repo
 
 2. Create .env file
